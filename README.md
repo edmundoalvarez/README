@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edmundo</h1>
-<h3 align="center">A front end developer from Argentina</h3>
+<h3 align="center">A Front End developer from Argentina</h3>
 
 - 🔭 I’m currently working on **Tekun Agropecuaria website**
 
